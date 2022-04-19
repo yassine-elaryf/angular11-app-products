@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": 4300,
+      "quantity": "99999",
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "azerty",
+      "price": 0,
+      "quantity": 0,
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "hpp",
+      "price": "20",
+      "quantity": "1",
+      "selected": true,
+      "available": false,
+      "id": 4
+    }
+  ]
+}
